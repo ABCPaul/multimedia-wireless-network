@@ -31,10 +31,10 @@ These study notes try to capture the most important information of the given sou
     - Practice a lot and make sure not to read from the slides
 
 
-Be aware of your audience and adjust your presentation style and content accordingly.
+Be aware of the audience and adjust the presentation style and content accordingly.
 
 * Slide design:
-    - Few words, the slide should support your oral presentation and not replace it so avoid full sentences and focus on keywords
+    - Few words, the slide should support the oral presentation and not replace it so avoid full sentences and focus on keywords
     - Interesting, but not too distracting
     - Clean structure with ideally one key point per slide
     - Easy to read type fonts and clear design
